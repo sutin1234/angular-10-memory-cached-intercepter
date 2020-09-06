@@ -27,3 +27,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Screen short
+<img src="./screenshort/Screen%20Shot%202563-09-06%20at%2002.24.03.png">
+<img src="../angular-10-memory-cached-intercepter/screenshort/Screen%20Shot%202563-09-06%20at%2002.25.14.png">
+
