@@ -30,5 +30,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Screen short
 <img src="./screenshort/Screen%20Shot%202563-09-06%20at%2002.24.03.png">
-<img src="../angular-10-memory-cached-intercepter/screenshort/Screen%20Shot%202563-09-06%20at%2002.25.14.png">
+<img src="./screenshort/Screen%20Shot%202563-09-06%20at%2002.25.14.png">
 
